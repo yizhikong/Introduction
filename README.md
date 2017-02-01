@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to my github
+Here are the introduction of my repositorise
 
-You can use the [editor on GitHub](https://github.com/yizhikong/Introduction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Toys](https://github.com/yizhikong/Toys)
+Several toys(maybe). Include(rank by date roughly):
+- [conan](https://github.com/yizhikong/Toys/blob/master/conan.py), a _crawler_ implemented in python, a **toy** to download conan comic in baidu tieba for convenience
+- [cheat](https://github.com/yizhikong/Toys/blob/master/cheat.py), a **toy**, a python scipt for _playing QQ game automatically_
+- [delWeibo](https://github.com/yizhikong/Toys/blob/master/delWeibo.py), a python script to _use weibo API to delete my weibo_
+- [aStar](https://github.com/yizhikong/Toys/blob/master/aStar.js), implement _A\* Search_ with javascript, a part of code of my nodejs website(auto route) for course project.
+- [ID3](https://github.com/yizhikong/Toys/tree/master/ID3), a simple decisicion tree(_ID3_) implemented in python, just my code for practice when I read 《machine learning》, includes a little dataset.
+- [ANNs](https://github.com/yizhikong/Toys/tree/master/ANNs), a _back propagation net_ implemented in C++, code as homework of Artificial Intelligence(Digit classification).
+- [randomforest](https://github.com/yizhikong/Toys/blob/master/randomforest.py), _CART_ implemented in python for course Data Mining
+- [imageDehaze](https://github.com/yizhikong/Toys/blob/master/imageDehaze.py), image dehaze implementation of _He K, Sun J, Tang X. Single Image Haze Removal Using Dark Channel Prior. CVPR 2008_ and _He K, Sun J, Tang X. Guided Image Filtering. ECCV 2010._
+- [autoStopAndPlay](https://github.com/yizhikong/Toys/tree/master/autoStopAndPlay), a **toy** to control the media player automatically(when you turn your head to other direction for eating or answering friends' asking, the player will stop; when you turn back, it will play again). implemented with BP net in C++ for training model, a python script for applying the model.
+- [splitWord](https://github.com/yizhikong/Toys/tree/master/splitWord), a practice for using C# and visual studio to write program with _GUI_. Can split english sentence(without space) according word list， implemented with _Trie tree_.
+- [accessOutlook](https://github.com/yizhikong/Toys/blob/master/accessOutlook.py), a python script to access outlook. I use it to save my conversation into a txt file for sourvenir
+- [crawler](https://github.com/yizhikong/Toys/blob/master/crawler.py), a _crawler_ to get _goods and their informations(include comments)_ from _taobao_ page to page. It can collect dataset
+- [monitor](https://github.com/yizhikong/Toys/blob/master/monitor.py), a *toy* wrote in python. a _monitor_ using computer's camera, when something pass by(occur), a message will send to _wechat_ automatically. _Do not need any equipment else_ if you use laptop to run this script(laptop has inner camera)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [simpleCode](https://github.com/yizhikong/simpleCode)
+my _win8 application_, is funny
 
-### Markdown
+### [wechat](https://github.com/yizhikong/wechat)
+my _subscription account in wechat_. It can translate by using youdao's API and do something else 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [sysu_library_assistant](https://github.com/yizhikong/sysu_library_assistant)
+a assistant for sysu library, my course project with my teammate. Include _crawler_, _website(backend)_ and _Android app_.
 
-```markdown
-Syntax highlighted code block
+### [Illustration_Classification](https://github.com/yizhikong/Illustration_Classification)
+my graduation project for illustration classification. Include _dataset collecting_, _preprocess_, _model training_ and _evulation_
 
-# Header 1
-## Header 2
-### Header 3
+### [DeleteColorfulColor](https://github.com/yizhikong/DeleteColorfulColor)
+try to delete colorful color in realistic image
 
-- Bulleted
-- List
+### [TiebaAnalyze](https://github.com/yizhikong/TiebaAnalyze)
+scripts for analyze baidu tieba. Include a big _crawler_, _analyzer(refer to some nlp module)_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yizhikong/Introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
