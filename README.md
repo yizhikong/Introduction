@@ -16,8 +16,10 @@ Several toys(maybe). Include(rank by date roughly):
 
 - [imageDehaze](https://github.com/yizhikong/Toys/blob/master/imageDehaze.py), image dehaze implementation of _He K, Sun J, Tang X. Single Image Haze Removal Using Dark Channel Prior. CVPR 2008_ and _He K, Sun J, Tang X. Guided Image Filtering. ECCV 2010._
 
+<div align = 'center'>
 <img src="/Assets/haze.jpg" height="130px" style="max-width:100%;">
 <img src="/Assets/dehaze.jpg" height="130px" style="max-width:100%;">
+</div>
 
 - [randomforest](https://github.com/yizhikong/Toys/blob/master/randomforest.py), _CART_ implemented in python for course Data Mining
 
