@@ -15,6 +15,8 @@ Several toys(maybe). Include(rank by date roughly):
 - [autoStopAndPlay](https://github.com/yizhikong/Toys/tree/master/autoStopAndPlay), a **toy** to control the media player automatically(when you turn your head to other direction for eating or answering friends' asking, the player will stop; when you turn back, it will play again). implemented with BP net in C++ for training model, a python script for applying the model.
 
 - [imageDehaze](https://github.com/yizhikong/Toys/blob/master/imageDehaze.py), image dehaze implementation of _He K, Sun J, Tang X. Single Image Haze Removal Using Dark Channel Prior. CVPR 2008_ and _He K, Sun J, Tang X. Guided Image Filtering. ECCV 2010._
+![Haze](https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/haze.jpg)
+![Dehaze](https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg)
 
 - [randomforest](https://github.com/yizhikong/Toys/blob/master/randomforest.py), _CART_ implemented in python for course Data Mining
 
