@@ -17,11 +17,12 @@ Several toys(maybe). Include(rank by date roughly):
 - [imageDehaze](https://github.com/yizhikong/Toys/blob/master/imageDehaze.py), image dehaze implementation of _He K, Sun J, Tang X. Single Image Haze Removal Using Dark Channel Prior. CVPR 2008_ and _He K, Sun J, Tang X. Guided Image Filtering. ECCV 2010._
 
 <div style="text-align:center; border:0">
-<img border="0" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/haze.jpg" height="130px" style="max-width:100%;">
-<img border="0" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg" height="130px" style="max-width:100%;">
+<img border="0" border-style="none" border-width="0" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/haze.jpg" height="130px" style="max-width:100%;">
+<img border="none" border-style="none" border-width="0" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg" height="130px" style="max-width:100%;">
 </div>
 
 - [randomforest](https://github.com/yizhikong/Toys/blob/master/randomforest.py), _CART_ implemented in python for course Data Mining
+
 <img border="0" align="center" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg" height="130px" style="max-width:100%;">
 
 - [ANNs](https://github.com/yizhikong/Toys/tree/master/ANNs), a _back propagation net_ implemented in C++, code as homework of Artificial Intelligence(Digit classification).
