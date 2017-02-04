@@ -13,7 +13,7 @@ Several toys(maybe). Include(rank by date roughly):
 - [splitWord](https://github.com/yizhikong/Toys/tree/master/splitWord), a practice for using C# and visual studio to write program with _GUI_. Can split english sentence(without space) according word list， implemented with _Trie tree_.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/split_word.jpg">
+<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/split_word.png">
 </div>
 
 - [autoStopAndPlay](https://github.com/yizhikong/Toys/tree/master/autoStopAndPlay), a **toy** to control the media player automatically(when you turn your head to other direction for eating or answering friends' asking, the player will stop; when you turn back, it will play again). implemented with BP net in C++ for training model, a python script for applying the model.
