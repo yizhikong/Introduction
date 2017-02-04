@@ -13,6 +13,7 @@ Several toys(maybe). Include(rank by date roughly):
 - [splitWord](https://github.com/yizhikong/Toys/tree/master/splitWord), a practice for using C# and visual studio to write program with _GUI_. Can split english sentence(without space) according word list， implemented with _Trie tree_.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/split_word_0.png">
 <img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/split_word.png">
 </div>
 
