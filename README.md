@@ -12,13 +12,17 @@ Several toys(maybe). Include(rank by date roughly):
 
 - [splitWord](https://github.com/yizhikong/Toys/tree/master/splitWord), a practice for using C# and visual studio to write program with _GUI_. Can split english sentence(without space) according word list， implemented with _Trie tree_.
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/split_word.jpg">
+</div>
+
 - [autoStopAndPlay](https://github.com/yizhikong/Toys/tree/master/autoStopAndPlay), a **toy** to control the media player automatically(when you turn your head to other direction for eating or answering friends' asking, the player will stop; when you turn back, it will play again). implemented with BP net in C++ for training model, a python script for applying the model.
 
 - [imageDehaze](https://github.com/yizhikong/Toys/blob/master/imageDehaze.py), image dehaze implementation of _He K, Sun J, Tang X. Single Image Haze Removal Using Dark Channel Prior. CVPR 2008_ and _He K, Sun J, Tang X. Guided Image Filtering. ECCV 2010._
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/haze.jpg" height="130px" style="max-width:100%; padding:0px;margin:5px">
-<img padding="0px" src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg" height="130px" style="max-width:100%;padding:0px;margin:5px">
+<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/haze.jpg" height="150px" alt="haze image">
+<img src="https://raw.githubusercontent.com/yizhikong/Introduction/master/Assets/dehaze.jpg" height="150px" alt="dehaze image">
 </div>
 
 - [randomforest](https://github.com/yizhikong/Toys/blob/master/randomforest.py), _CART_ implemented in python for course Data Mining
